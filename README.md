@@ -27,8 +27,8 @@ Although Extra Trees achieved the highest accuracy, Logistic Regression was sele
 - `requirements.txt` – Python dependencies
 
 ## How to Run
-1. Download the SpamAssassin dataset
-2. Create `data/Email/Ham` and `data/Email/Spam`
+1. Download the SpamAssassin dataset from Kaggle
+2. Create `/Email/Ham` and `/Email/Spam`
 3. Open the notebook in `notebooks/`
 4. Run all cells
 
