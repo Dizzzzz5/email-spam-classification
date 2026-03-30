@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+beautifulsoup4
+matplotlib
+scikit-learn
+xgboost
+wordcloud
+pyspellchecker
