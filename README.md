@@ -32,5 +32,18 @@ Although Extra Trees achieved the highest accuracy, Logistic Regression was sele
 3. Open the notebook in `notebooks/`
 4. Run all cells
 
+# Data
+
+This project uses the public SpamAssassin email corpus.
+
+To run the notebook, create this structure:
+
+data/
+└── Email/
+    ├── Ham/
+    └── Spam/
+
+Download the dataset files and place the ham emails in `Ham/` and the spam emails in `Spam/`.
+
 ## Tools Used
 Python, pandas, NLTK, scikit-learn, XGBoost, matplotlib, BeautifulSoup, WordCloud
